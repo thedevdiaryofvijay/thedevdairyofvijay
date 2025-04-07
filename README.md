@@ -1,5 +1,5 @@
-
-<h1>Clean & Simple Software Developer Fresher | Passionate About Web Technologies</h1>
+###
+<h1>Clean & Simple Software Developer Fresher | Passionate About Web Technologies</h1>###
 <p>A passionate software developer from Bengaluru</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
@@ -32,10 +32,11 @@
 <p><a target="_blank" href="https://www.vijaykumarkoneru.website" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/vijay-kumar-k-web-developer" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/vijaykumar.koneru" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=#F35369" alt="instagram" /></a></p>
-<p><div align="center">
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thedevdiaryofvijay&" alt="thedevdiaryofvijay" />
   <img src="https://github-readme-stats.vercel.app/api?username=thedevdiaryofvijay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thedevdiaryofvijay&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thedevdiaryofvijay&" alt="thedevdiaryofvijay" /></p>
+</div>
+<p></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thedevdiaryofvijay" alt="thedevdiaryofvijay" /></a></p>
 
