@@ -40,7 +40,7 @@
 
 </div>
 <div align="center">
-    <img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=thedevdiaryofvijay](https://github-readme-streak-stats.herokuapp.com/?user=thedevdiaryofvijay&theme=dark&hide_border=true)" height="150" alt="" />
+   // <img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=thedevdiaryofvijay](https://github-readme-streak-stats.herokuapp.com/?user=thedevdiaryofvijay&theme=dark&hide_border=true)" height="150" alt="" />*//
 </div>
 <p></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thedevdiaryofvijay" alt="thedevdiaryofvijay" /></a></p>
